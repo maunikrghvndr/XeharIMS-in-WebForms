@@ -1,0 +1,5 @@
+C:\Users\Singh\Downloads\XeharGIT-master\XeharGIT-master\XEHAR2017\XEHAR2017\src\MarketplaceWebService\bin\Debug\MarketplaceWebService.dll
+C:\Users\Singh\Downloads\XeharGIT-master\XeharGIT-master\XEHAR2017\XEHAR2017\src\MarketplaceWebService\bin\Debug\MarketplaceWebService.pdb
+C:\Users\Singh\Downloads\XeharGIT-master\XeharGIT-master\XEHAR2017\XEHAR2017\src\MarketplaceWebService\obj\Debug\MarketplaceWebService.csprojResolveAssemblyReference.cache
+C:\Users\Singh\Downloads\XeharGIT-master\XeharGIT-master\XEHAR2017\XEHAR2017\src\MarketplaceWebService\obj\Debug\MarketplaceWebService.dll
+C:\Users\Singh\Downloads\XeharGIT-master\XeharGIT-master\XEHAR2017\XEHAR2017\src\MarketplaceWebService\obj\Debug\MarketplaceWebService.pdb
